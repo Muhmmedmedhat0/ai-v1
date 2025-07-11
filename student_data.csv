@@ -1,0 +1,11 @@
+students,grades_math,grades_science,grades_english,behavior,passed,issues
+Ahmed,85,80,78,good,1,0
+Sayed,90,85,82,good,1,0
+Ali,78,88,85,bad,0,1
+Mohamed,88,90,88,good,1,0
+Hassan,92,92,90,bad,1,0
+Omar,95,95,92,good,1,0
+Yasser,80,78,80,bad,0,1
+Khaled,75,82,75,bad,0,1
+Tamer,89,84,89,good,1,0
+Sara,82,87,84,bad,1,0
